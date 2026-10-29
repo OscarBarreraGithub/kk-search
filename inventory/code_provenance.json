@@ -1,0 +1,22 @@
+{
+  "CMSAnalysis": {
+    "repository": "https://github.com/tw-hu/CMSAnalysis",
+    "commit": "8c4e503bcf874159240cd81096fab2ee0c57b95d",
+    "local": "code/CMSAnalysis_8c4e503",
+    "status": "Public analyst code; predates final revisions; not executed"
+  },
+  "HybridNew_README": {
+    "repository": "https://github.com/izisopou/READMEs",
+    "commit": "012184e3dd2216206216d0bb2d2d0d0a5b75e526",
+    "path": "README_HybridNew_final.txt",
+    "local": "code/HybridNew_README.txt",
+    "status": "Documents final workspace locations on CMS group EOS; files not obtained"
+  },
+  "symbolfit": {
+    "repository": "https://github.com/hftsoi/symbolfit",
+    "commit": "d6c8bf035bedf30da4e8f4ae777dc6ca5c453cdf",
+    "path": "examples/datasets/dijet_pair/dataset.py",
+    "local": "numerical/secondary_symbolfit/dataset.py",
+    "status": "Secondary copy; 44 bins; original HEPData validation pending"
+  }
+}

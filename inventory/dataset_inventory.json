@@ -1,0 +1,1132 @@
+[
+  {
+    "record_id": 1059,
+    "title": "CMS luminosity information for 13TeV proton-proton collision data taken in 2016",
+    "record_url": "https://opendata.cern.ch/record/1059",
+    "api_url": "https://opendata.cern.ch/api/records/1059",
+    "doi": null,
+    "license": {
+      "attribution": "CC0-1.0"
+    },
+    "published": "2023",
+    "created": [
+      "2016"
+    ],
+    "run_period": [
+      "Run2016B",
+      "Run2016C",
+      "Run2016D",
+      "Run2016E",
+      "Run2016F",
+      "Run2016G",
+      "Run2016H"
+    ],
+    "distribution_as_published": {
+      "formats": [
+        "csv",
+        "json",
+        "txt"
+      ],
+      "number_files": 6,
+      "size": 21285548
+    },
+    "enumerated_files": 6,
+    "enumerated_root_files": 0,
+    "enumerated_bytes": 21285548,
+    "manifest": "opendata/manifests/1059.jsonl",
+    "metadata": "opendata/records/1059.json",
+    "issues": [],
+    "download_status": "metadata_and_file_manifest; only listed sample/auxiliary files are downloaded"
+  },
+  {
+    "record_id": 1818,
+    "title": "Condition data for 2016 CMS proton-proton collision data at 13 TeV",
+    "record_url": "https://opendata.cern.ch/record/1818",
+    "api_url": "https://opendata.cern.ch/api/records/1818",
+    "doi": null,
+    "license": null,
+    "published": "2024",
+    "created": [
+      "2016"
+    ],
+    "run_period": [
+      "Run2016G",
+      "Run2016H"
+    ],
+    "distribution_as_published": {
+      "formats": [
+        "db"
+      ],
+      "number_files": 1,
+      "size": 1727193088
+    },
+    "enumerated_files": 1,
+    "enumerated_root_files": 0,
+    "enumerated_bytes": 1727193088,
+    "manifest": "opendata/manifests/1818.jsonl",
+    "metadata": "opendata/records/1818.json",
+    "issues": [],
+    "download_status": "metadata_and_file_manifest; only listed sample/auxiliary files are downloaded"
+  },
+  {
+    "record_id": 1819,
+    "title": "Condition data for 2016 CMS proton-proton simulated data at 13 TeV",
+    "record_url": "https://opendata.cern.ch/record/1819",
+    "api_url": "https://opendata.cern.ch/api/records/1819",
+    "doi": null,
+    "license": null,
+    "published": "2024",
+    "created": [
+      "2016"
+    ],
+    "run_period": null,
+    "distribution_as_published": {
+      "formats": [
+        "db"
+      ],
+      "number_files": 1,
+      "size": 664346624
+    },
+    "enumerated_files": 1,
+    "enumerated_root_files": 0,
+    "enumerated_bytes": 664346624,
+    "manifest": "opendata/manifests/1819.jsonl",
+    "metadata": "opendata/records/1819.json",
+    "issues": [],
+    "download_status": "metadata_and_file_manifest; only listed sample/auxiliary files are downloaded"
+  },
+  {
+    "record_id": 6010,
+    "title": "/JetHT/Run2012B-22Jan2013-v1/AOD",
+    "record_url": "https://opendata.cern.ch/record/6010",
+    "api_url": "https://opendata.cern.ch/api/records/6010",
+    "doi": "10.7483/OPENDATA.CMS.KL8H.HFVH",
+    "license": {
+      "attribution": "CC0-1.0"
+    },
+    "published": "2017",
+    "created": [
+      "2012"
+    ],
+    "run_period": [
+      "Run2012B"
+    ],
+    "distribution_as_published": {
+      "formats": [
+        "aod",
+        "root"
+      ],
+      "number_events": 15513284,
+      "number_files": 1404,
+      "size": 5085964284535
+    },
+    "enumerated_files": 1404,
+    "enumerated_root_files": 1404,
+    "enumerated_bytes": 5085964284535,
+    "manifest": "opendata/manifests/6010.jsonl",
+    "metadata": "opendata/records/6010.json",
+    "issues": [],
+    "download_status": "metadata_and_file_manifest; only listed sample/auxiliary files are downloaded"
+  },
+  {
+    "record_id": 6036,
+    "title": "/JetHT/Run2012C-22Jan2013-v1/AOD",
+    "record_url": "https://opendata.cern.ch/record/6036",
+    "api_url": "https://opendata.cern.ch/api/records/6036",
+    "doi": "10.7483/OPENDATA.CMS.VZSR.LYZX",
+    "license": {
+      "attribution": "CC0-1.0"
+    },
+    "published": "2017",
+    "created": [
+      "2012"
+    ],
+    "run_period": [
+      "Run2012C"
+    ],
+    "distribution_as_published": {
+      "formats": [
+        "aod",
+        "root"
+      ],
+      "number_events": 25774250,
+      "number_files": 2212,
+      "size": 8406027407005
+    },
+    "enumerated_files": 2210,
+    "enumerated_root_files": 2210,
+    "enumerated_bytes": 8399794931296,
+    "manifest": "opendata/manifests/6036.jsonl",
+    "metadata": "opendata/records/6036.json",
+    "issues": [
+      "Declared dataset size differs from sum of enumerated file sizes.",
+      "Declared file count differs from enumerated file count; may include auxiliary files."
+    ],
+    "download_status": "metadata_and_file_manifest; only listed sample/auxiliary files are downloaded"
+  },
+  {
+    "record_id": 14220,
+    "title": "CMS list of validated runs Cert_271036-284044_13TeV_Legacy2016_Collisions16_JSON.txt",
+    "record_url": "https://opendata.cern.ch/record/14220",
+    "api_url": "https://opendata.cern.ch/api/records/14220",
+    "doi": null,
+    "license": {
+      "attribution": "CC0-1.0"
+    },
+    "published": "2023",
+    "created": [
+      "2016"
+    ],
+    "run_period": [
+      "Run2016B",
+      "Run2016C",
+      "Run2016D",
+      "Run2016E",
+      "Run2016F",
+      "Run2016G",
+      "Run2016H"
+    ],
+    "distribution_as_published": {
+      "formats": [
+        "txt"
+      ]
+    },
+    "enumerated_files": 1,
+    "enumerated_root_files": 0,
+    "enumerated_bytes": 11686,
+    "manifest": "opendata/manifests/14220.jsonl",
+    "metadata": "opendata/records/14220.json",
+    "issues": [],
+    "download_status": "metadata_and_file_manifest; only listed sample/auxiliary files are downloaded"
+  },
+  {
+    "record_id": 24124,
+    "title": "/JetHT/Run2015D-16Dec2015-v1/MINIAOD",
+    "record_url": "https://opendata.cern.ch/record/24124",
+    "api_url": "https://opendata.cern.ch/api/records/24124",
+    "doi": "10.7483/OPENDATA.CMS.IDN0.S11Z",
+    "license": {
+      "attribution": "CC0-1.0"
+    },
+    "published": "2021",
+    "created": [
+      "2015"
+    ],
+    "run_period": [
+      "Run2015D"
+    ],
+    "distribution_as_published": {
+      "formats": [
+        "miniaod",
+        "root"
+      ],
+      "number_events": 76523854,
+      "number_files": 1607,
+      "size": 1511891996403
+    },
+    "enumerated_files": 1607,
+    "enumerated_root_files": 1607,
+    "enumerated_bytes": 1511891996403,
+    "manifest": "opendata/manifests/24124.jsonl",
+    "metadata": "opendata/records/24124.json",
+    "issues": [],
+    "download_status": "metadata_and_file_manifest; only listed sample/auxiliary files are downloaded"
+  },
+  {
+    "record_id": 24450,
+    "title": "/JetHT/Run2012D-22Jan2013-v1/AOD",
+    "record_url": "https://opendata.cern.ch/record/24450",
+    "api_url": "https://opendata.cern.ch/api/records/24450",
+    "doi": "10.7483/OPENDATA.CMS.28GM.UFK8",
+    "license": {
+      "attribution": "CC0-1.0"
+    },
+    "published": "2022",
+    "created": [
+      "2012"
+    ],
+    "run_period": [
+      "Run2012D"
+    ],
+    "distribution_as_published": {
+      "formats": [
+        "aod",
+        "root"
+      ],
+      "number_events": 27572330,
+      "number_files": 2678,
+      "size": 9706913117931
+    },
+    "enumerated_files": 2678,
+    "enumerated_root_files": 2678,
+    "enumerated_bytes": 9706913117931,
+    "manifest": "opendata/manifests/24450.jsonl",
+    "metadata": "opendata/records/24450.json",
+    "issues": [],
+    "download_status": "metadata_and_file_manifest; only listed sample/auxiliary files are downloaded"
+  },
+  {
+    "record_id": 30504,
+    "title": "/DoubleEG/Run2016G-UL2016_MiniAODv2-v1/MINIAOD",
+    "record_url": "https://opendata.cern.ch/record/30504",
+    "api_url": "https://opendata.cern.ch/api/records/30504",
+    "doi": "10.7483/OPENDATA.CMS.2OGP.AAY5",
+    "license": {
+      "attribution": "CC0-1.0"
+    },
+    "published": "2024",
+    "created": [
+      "2016"
+    ],
+    "run_period": [
+      "Run2016G"
+    ],
+    "distribution_as_published": {
+      "formats": [
+        "miniaod",
+        "root"
+      ],
+      "number_events": 78797031,
+      "number_files": 831,
+      "size": 2748247290546
+    },
+    "enumerated_files": 831,
+    "enumerated_root_files": 831,
+    "enumerated_bytes": 2748247290546,
+    "manifest": "opendata/manifests/30504.jsonl",
+    "metadata": "opendata/records/30504.json",
+    "issues": [],
+    "download_status": "metadata_and_file_manifest; only listed sample/auxiliary files are downloaded"
+  },
+  {
+    "record_id": 30505,
+    "title": "/DoubleMuon/Run2016G-UL2016_MiniAODv2-v1/MINIAOD",
+    "record_url": "https://opendata.cern.ch/record/30505",
+    "api_url": "https://opendata.cern.ch/api/records/30505",
+    "doi": "10.7483/OPENDATA.CMS.UWT2.PUOE",
+    "license": {
+      "attribution": "CC0-1.0"
+    },
+    "published": "2024",
+    "created": [
+      "2016"
+    ],
+    "run_period": [
+      "Run2016G"
+    ],
+    "distribution_as_published": {
+      "formats": [
+        "miniaod",
+        "root"
+      ],
+      "number_events": 45235604,
+      "number_files": 419,
+      "size": 1438705247208
+    },
+    "enumerated_files": 419,
+    "enumerated_root_files": 419,
+    "enumerated_bytes": 1438705247208,
+    "manifest": "opendata/manifests/30505.jsonl",
+    "metadata": "opendata/records/30505.json",
+    "issues": [],
+    "download_status": "metadata_and_file_manifest; only listed sample/auxiliary files are downloaded"
+  },
+  {
+    "record_id": 30508,
+    "title": "/JetHT/Run2016G-UL2016_MiniAODv2-v2/MINIAOD",
+    "record_url": "https://opendata.cern.ch/record/30508",
+    "api_url": "https://opendata.cern.ch/api/records/30508",
+    "doi": "10.7483/OPENDATA.CMS.1KTG.X0W4",
+    "license": {
+      "attribution": "CC0-1.0"
+    },
+    "published": "2024",
+    "created": [
+      "2016"
+    ],
+    "run_period": [
+      "Run2016G"
+    ],
+    "distribution_as_published": {
+      "formats": [
+        "miniaod",
+        "root"
+      ],
+      "number_events": 120745085,
+      "number_files": 1236,
+      "size": 4464752118503
+    },
+    "enumerated_files": 1236,
+    "enumerated_root_files": 1236,
+    "enumerated_bytes": 4464752118503,
+    "manifest": "opendata/manifests/30508.jsonl",
+    "metadata": "opendata/records/30508.json",
+    "issues": [],
+    "download_status": "metadata_and_file_manifest; only listed sample/auxiliary files are downloaded"
+  },
+  {
+    "record_id": 30512,
+    "title": "/SingleElectron/Run2016G-UL2016_MiniAODv2-v2/MINIAOD",
+    "record_url": "https://opendata.cern.ch/record/30512",
+    "api_url": "https://opendata.cern.ch/api/records/30512",
+    "doi": "10.7483/OPENDATA.CMS.ALSH.M7HJ",
+    "license": {
+      "attribution": "CC0-1.0"
+    },
+    "published": "2024",
+    "created": [
+      "2016"
+    ],
+    "run_period": [
+      "Run2016G"
+    ],
+    "distribution_as_published": {
+      "formats": [
+        "miniaod",
+        "root"
+      ],
+      "number_events": 153363109,
+      "number_files": 1331,
+      "size": 4955884730776
+    },
+    "enumerated_files": 1331,
+    "enumerated_root_files": 1331,
+    "enumerated_bytes": 4955884730776,
+    "manifest": "opendata/manifests/30512.jsonl",
+    "metadata": "opendata/records/30512.json",
+    "issues": [],
+    "download_status": "metadata_and_file_manifest; only listed sample/auxiliary files are downloaded"
+  },
+  {
+    "record_id": 30513,
+    "title": "/SingleMuon/Run2016G-UL2016_MiniAODv2-v2/MINIAOD",
+    "record_url": "https://opendata.cern.ch/record/30513",
+    "api_url": "https://opendata.cern.ch/api/records/30513",
+    "doi": "10.7483/OPENDATA.CMS.1U19.1HLV",
+    "license": {
+      "attribution": "CC0-1.0"
+    },
+    "published": "2024",
+    "created": [
+      "2016"
+    ],
+    "run_period": [
+      "Run2016G"
+    ],
+    "distribution_as_published": {
+      "formats": [
+        "miniaod",
+        "root"
+      ],
+      "number_events": 149916849,
+      "number_files": 1089,
+      "size": 4221864660403
+    },
+    "enumerated_files": 1089,
+    "enumerated_root_files": 1089,
+    "enumerated_bytes": 4221864660403,
+    "manifest": "opendata/manifests/30513.jsonl",
+    "metadata": "opendata/records/30513.json",
+    "issues": [],
+    "download_status": "metadata_and_file_manifest; only listed sample/auxiliary files are downloaded"
+  },
+  {
+    "record_id": 30521,
+    "title": "/DoubleEG/Run2016G-UL2016_MiniAODv2_NanoAODv9-v1/NANOAOD",
+    "record_url": "https://opendata.cern.ch/record/30521",
+    "api_url": "https://opendata.cern.ch/api/records/30521",
+    "doi": "10.7483/OPENDATA.CMS.1L0M.8KNQ",
+    "license": {
+      "attribution": "CC0-1.0"
+    },
+    "published": "2024",
+    "created": [
+      "2016"
+    ],
+    "run_period": [
+      "Run2016G"
+    ],
+    "distribution_as_published": {
+      "formats": [
+        "nanoaod",
+        "root"
+      ],
+      "number_events": 78797031,
+      "number_files": 47,
+      "size": 75705443664
+    },
+    "enumerated_files": 47,
+    "enumerated_root_files": 47,
+    "enumerated_bytes": 75705443664,
+    "manifest": "opendata/manifests/30521.jsonl",
+    "metadata": "opendata/records/30521.json",
+    "issues": [],
+    "download_status": "metadata_and_file_manifest; only listed sample/auxiliary files are downloaded"
+  },
+  {
+    "record_id": 30522,
+    "title": "/DoubleMuon/Run2016G-UL2016_MiniAODv2_NanoAODv9-v2/NANOAOD",
+    "record_url": "https://opendata.cern.ch/record/30522",
+    "api_url": "https://opendata.cern.ch/api/records/30522",
+    "doi": "10.7483/OPENDATA.CMS.ZQS3.LGLP",
+    "license": {
+      "attribution": "CC0-1.0"
+    },
+    "published": "2024",
+    "created": [
+      "2016"
+    ],
+    "run_period": [
+      "Run2016G"
+    ],
+    "distribution_as_published": {
+      "formats": [
+        "nanoaod",
+        "root"
+      ],
+      "number_events": 45235604,
+      "number_files": 29,
+      "size": 42213844893
+    },
+    "enumerated_files": 29,
+    "enumerated_root_files": 29,
+    "enumerated_bytes": 42213844893,
+    "manifest": "opendata/manifests/30522.jsonl",
+    "metadata": "opendata/records/30522.json",
+    "issues": [],
+    "download_status": "metadata_and_file_manifest; only listed sample/auxiliary files are downloaded"
+  },
+  {
+    "record_id": 30525,
+    "title": "/JetHT/Run2016G-UL2016_MiniAODv2_NanoAODv9-v1/NANOAOD",
+    "record_url": "https://opendata.cern.ch/record/30525",
+    "api_url": "https://opendata.cern.ch/api/records/30525",
+    "doi": "10.7483/OPENDATA.CMS.14F4.VPP9",
+    "license": {
+      "attribution": "CC0-1.0"
+    },
+    "published": "2024",
+    "created": [
+      "2016"
+    ],
+    "run_period": [
+      "Run2016G"
+    ],
+    "distribution_as_published": {
+      "formats": [
+        "nanoaod",
+        "root"
+      ],
+      "number_events": 120688407,
+      "number_files": 70,
+      "size": 154182177122
+    },
+    "enumerated_files": 70,
+    "enumerated_root_files": 70,
+    "enumerated_bytes": 154182177122,
+    "manifest": "opendata/manifests/30525.jsonl",
+    "metadata": "opendata/records/30525.json",
+    "issues": [],
+    "download_status": "metadata_and_file_manifest; only listed sample/auxiliary files are downloaded"
+  },
+  {
+    "record_id": 30529,
+    "title": "/SingleElectron/Run2016G-UL2016_MiniAODv2_NanoAODv9-v1/NANOAOD",
+    "record_url": "https://opendata.cern.ch/record/30529",
+    "api_url": "https://opendata.cern.ch/api/records/30529",
+    "doi": "10.7483/OPENDATA.CMS.W8GF.6EVL",
+    "license": {
+      "attribution": "CC0-1.0"
+    },
+    "published": "2024",
+    "created": [
+      "2016"
+    ],
+    "run_period": [
+      "Run2016G"
+    ],
+    "distribution_as_published": {
+      "formats": [
+        "nanoaod",
+        "root"
+      ],
+      "number_events": 153363109,
+      "number_files": 71,
+      "size": 137667849272
+    },
+    "enumerated_files": 71,
+    "enumerated_root_files": 71,
+    "enumerated_bytes": 137667849272,
+    "manifest": "opendata/manifests/30529.jsonl",
+    "metadata": "opendata/records/30529.json",
+    "issues": [],
+    "download_status": "metadata_and_file_manifest; only listed sample/auxiliary files are downloaded"
+  },
+  {
+    "record_id": 30530,
+    "title": "/SingleMuon/Run2016G-UL2016_MiniAODv2_NanoAODv9-v1/NANOAOD",
+    "record_url": "https://opendata.cern.ch/record/30530",
+    "api_url": "https://opendata.cern.ch/api/records/30530",
+    "doi": "10.7483/OPENDATA.CMS.DM27.QUP0",
+    "license": {
+      "attribution": "CC0-1.0"
+    },
+    "published": "2024",
+    "created": [
+      "2016"
+    ],
+    "run_period": [
+      "Run2016G"
+    ],
+    "distribution_as_published": {
+      "formats": [
+        "nanoaod",
+        "root"
+      ],
+      "number_events": 149916849,
+      "number_files": 70,
+      "size": 119597103616
+    },
+    "enumerated_files": 70,
+    "enumerated_root_files": 70,
+    "enumerated_bytes": 119597103616,
+    "manifest": "opendata/manifests/30530.jsonl",
+    "metadata": "opendata/records/30530.json",
+    "issues": [],
+    "download_status": "metadata_and_file_manifest; only listed sample/auxiliary files are downloaded"
+  },
+  {
+    "record_id": 30537,
+    "title": "/DoubleEG/Run2016H-UL2016_MiniAODv2-v1/MINIAOD",
+    "record_url": "https://opendata.cern.ch/record/30537",
+    "api_url": "https://opendata.cern.ch/api/records/30537",
+    "doi": "10.7483/OPENDATA.CMS.8HTF.M0NK",
+    "license": {
+      "attribution": "CC0-1.0"
+    },
+    "published": "2024",
+    "created": [
+      "2016"
+    ],
+    "run_period": [
+      "Run2016H"
+    ],
+    "distribution_as_published": {
+      "formats": [
+        "miniaod",
+        "root"
+      ],
+      "number_events": 85388734,
+      "number_files": 950,
+      "size": 3111549466959
+    },
+    "enumerated_files": 950,
+    "enumerated_root_files": 950,
+    "enumerated_bytes": 3111549466959,
+    "manifest": "opendata/manifests/30537.jsonl",
+    "metadata": "opendata/records/30537.json",
+    "issues": [],
+    "download_status": "metadata_and_file_manifest; only listed sample/auxiliary files are downloaded"
+  },
+  {
+    "record_id": 30538,
+    "title": "/DoubleMuon/Run2016H-UL2016_MiniAODv2-v2/MINIAOD",
+    "record_url": "https://opendata.cern.ch/record/30538",
+    "api_url": "https://opendata.cern.ch/api/records/30538",
+    "doi": "10.7483/OPENDATA.CMS.3ZPY.ZXXN",
+    "license": {
+      "attribution": "CC0-1.0"
+    },
+    "published": "2024",
+    "created": [
+      "2016"
+    ],
+    "run_period": [
+      "Run2016H"
+    ],
+    "distribution_as_published": {
+      "formats": [
+        "miniaod",
+        "root"
+      ],
+      "number_events": 48912812,
+      "number_files": 449,
+      "size": 1585948542028
+    },
+    "enumerated_files": 449,
+    "enumerated_root_files": 449,
+    "enumerated_bytes": 1585948542028,
+    "manifest": "opendata/manifests/30538.jsonl",
+    "metadata": "opendata/records/30538.json",
+    "issues": [],
+    "download_status": "metadata_and_file_manifest; only listed sample/auxiliary files are downloaded"
+  },
+  {
+    "record_id": 30541,
+    "title": "/JetHT/Run2016H-UL2016_MiniAODv2-v2/MINIAOD",
+    "record_url": "https://opendata.cern.ch/record/30541",
+    "api_url": "https://opendata.cern.ch/api/records/30541",
+    "doi": "10.7483/OPENDATA.CMS.LT9E.T7RQ",
+    "license": {
+      "attribution": "CC0-1.0"
+    },
+    "published": "2024",
+    "created": [
+      "2016"
+    ],
+    "run_period": [
+      "Run2016H"
+    ],
+    "distribution_as_published": {
+      "formats": [
+        "miniaod",
+        "root"
+      ],
+      "number_events": 124054791,
+      "number_files": 1309,
+      "size": 4657543410965
+    },
+    "enumerated_files": 1309,
+    "enumerated_root_files": 1309,
+    "enumerated_bytes": 4657543410965,
+    "manifest": "opendata/manifests/30541.jsonl",
+    "metadata": "opendata/records/30541.json",
+    "issues": [],
+    "download_status": "metadata_and_file_manifest; only listed sample/auxiliary files are downloaded"
+  },
+  {
+    "record_id": 30545,
+    "title": "/SingleElectron/Run2016H-UL2016_MiniAODv2-v2/MINIAOD",
+    "record_url": "https://opendata.cern.ch/record/30545",
+    "api_url": "https://opendata.cern.ch/api/records/30545",
+    "doi": "10.7483/OPENDATA.CMS.WF2U.R6UV",
+    "license": {
+      "attribution": "CC0-1.0"
+    },
+    "published": "2024",
+    "created": [
+      "2016"
+    ],
+    "run_period": [
+      "Run2016H"
+    ],
+    "distribution_as_published": {
+      "formats": [
+        "miniaod",
+        "root"
+      ],
+      "number_events": 129021893,
+      "number_files": 1173,
+      "size": 4348234232203
+    },
+    "enumerated_files": 1173,
+    "enumerated_root_files": 1173,
+    "enumerated_bytes": 4348234232203,
+    "manifest": "opendata/manifests/30545.jsonl",
+    "metadata": "opendata/records/30545.json",
+    "issues": [],
+    "download_status": "metadata_and_file_manifest; only listed sample/auxiliary files are downloaded"
+  },
+  {
+    "record_id": 30546,
+    "title": "/SingleMuon/Run2016H-UL2016_MiniAODv2-v2/MINIAOD",
+    "record_url": "https://opendata.cern.ch/record/30546",
+    "api_url": "https://opendata.cern.ch/api/records/30546",
+    "doi": "10.7483/OPENDATA.CMS.18K5.94CA",
+    "license": {
+      "attribution": "CC0-1.0"
+    },
+    "published": "2024",
+    "created": [
+      "2016"
+    ],
+    "run_period": [
+      "Run2016H"
+    ],
+    "distribution_as_published": {
+      "formats": [
+        "miniaod",
+        "root"
+      ],
+      "number_events": 174035164,
+      "number_files": 1356,
+      "size": 5098867610426
+    },
+    "enumerated_files": 1356,
+    "enumerated_root_files": 1356,
+    "enumerated_bytes": 5098867610426,
+    "manifest": "opendata/manifests/30546.jsonl",
+    "metadata": "opendata/records/30546.json",
+    "issues": [],
+    "download_status": "metadata_and_file_manifest; only listed sample/auxiliary files are downloaded"
+  },
+  {
+    "record_id": 30554,
+    "title": "/DoubleEG/Run2016H-UL2016_MiniAODv2_NanoAODv9-v1/NANOAOD",
+    "record_url": "https://opendata.cern.ch/record/30554",
+    "api_url": "https://opendata.cern.ch/api/records/30554",
+    "doi": "10.7483/OPENDATA.CMS.NNTS.OX28",
+    "license": {
+      "attribution": "CC0-1.0"
+    },
+    "published": "2024",
+    "created": [
+      "2016"
+    ],
+    "run_period": [
+      "Run2016H"
+    ],
+    "distribution_as_published": {
+      "formats": [
+        "nanoaod",
+        "root"
+      ],
+      "number_events": 85388673,
+      "number_files": 86,
+      "size": 83808508571
+    },
+    "enumerated_files": 86,
+    "enumerated_root_files": 86,
+    "enumerated_bytes": 83808508571,
+    "manifest": "opendata/manifests/30554.jsonl",
+    "metadata": "opendata/records/30554.json",
+    "issues": [],
+    "download_status": "metadata_and_file_manifest; only listed sample/auxiliary files are downloaded"
+  },
+  {
+    "record_id": 30555,
+    "title": "/DoubleMuon/Run2016H-UL2016_MiniAODv2_NanoAODv9-v1/NANOAOD",
+    "record_url": "https://opendata.cern.ch/record/30555",
+    "api_url": "https://opendata.cern.ch/api/records/30555",
+    "doi": "10.7483/OPENDATA.CMS.UZD7.Z50M",
+    "license": {
+      "attribution": "CC0-1.0"
+    },
+    "published": "2024",
+    "created": [
+      "2016"
+    ],
+    "run_period": [
+      "Run2016H"
+    ],
+    "distribution_as_published": {
+      "formats": [
+        "nanoaod",
+        "root"
+      ],
+      "number_events": 48912812,
+      "number_files": 28,
+      "size": 46040882201
+    },
+    "enumerated_files": 28,
+    "enumerated_root_files": 28,
+    "enumerated_bytes": 46040882201,
+    "manifest": "opendata/manifests/30555.jsonl",
+    "metadata": "opendata/records/30555.json",
+    "issues": [],
+    "download_status": "metadata_and_file_manifest; only listed sample/auxiliary files are downloaded"
+  },
+  {
+    "record_id": 30558,
+    "title": "/JetHT/Run2016H-UL2016_MiniAODv2_NanoAODv9-v1/NANOAOD",
+    "record_url": "https://opendata.cern.ch/record/30558",
+    "api_url": "https://opendata.cern.ch/api/records/30558",
+    "doi": "10.7483/OPENDATA.CMS.8ALJ.MQSO",
+    "license": {
+      "attribution": "CC0-1.0"
+    },
+    "published": "2024",
+    "created": [
+      "2016"
+    ],
+    "run_period": [
+      "Run2016H"
+    ],
+    "distribution_as_published": {
+      "formats": [
+        "nanoaod",
+        "root"
+      ],
+      "number_events": 124050331,
+      "number_files": 72,
+      "size": 156061839172
+    },
+    "enumerated_files": 72,
+    "enumerated_root_files": 72,
+    "enumerated_bytes": 156061839172,
+    "manifest": "opendata/manifests/30558.jsonl",
+    "metadata": "opendata/records/30558.json",
+    "issues": [],
+    "download_status": "metadata_and_file_manifest; only listed sample/auxiliary files are downloaded"
+  },
+  {
+    "record_id": 30562,
+    "title": "/SingleElectron/Run2016H-UL2016_MiniAODv2_NanoAODv9-v1/NANOAOD",
+    "record_url": "https://opendata.cern.ch/record/30562",
+    "api_url": "https://opendata.cern.ch/api/records/30562",
+    "doi": "10.7483/OPENDATA.CMS.C1XT.GE54",
+    "license": {
+      "attribution": "CC0-1.0"
+    },
+    "published": "2024",
+    "created": [
+      "2016"
+    ],
+    "run_period": [
+      "Run2016H"
+    ],
+    "distribution_as_published": {
+      "formats": [
+        "nanoaod",
+        "root"
+      ],
+      "number_events": 129021893,
+      "number_files": 80,
+      "size": 119388902892
+    },
+    "enumerated_files": 80,
+    "enumerated_root_files": 80,
+    "enumerated_bytes": 119388902892,
+    "manifest": "opendata/manifests/30562.jsonl",
+    "metadata": "opendata/records/30562.json",
+    "issues": [],
+    "download_status": "metadata_and_file_manifest; only listed sample/auxiliary files are downloaded"
+  },
+  {
+    "record_id": 30563,
+    "title": "/SingleMuon/Run2016H-UL2016_MiniAODv2_NanoAODv9-v1/NANOAOD",
+    "record_url": "https://opendata.cern.ch/record/30563",
+    "api_url": "https://opendata.cern.ch/api/records/30563",
+    "doi": "10.7483/OPENDATA.CMS.4BUS.64MV",
+    "license": {
+      "attribution": "CC0-1.0"
+    },
+    "published": "2024",
+    "created": [
+      "2016"
+    ],
+    "run_period": [
+      "Run2016H"
+    ],
+    "distribution_as_published": {
+      "formats": [
+        "nanoaod",
+        "root"
+      ],
+      "number_events": 174035164,
+      "number_files": 82,
+      "size": 140061944181
+    },
+    "enumerated_files": 82,
+    "enumerated_root_files": 82,
+    "enumerated_bytes": 140061944181,
+    "manifest": "opendata/manifests/30563.jsonl",
+    "metadata": "opendata/records/30563.json",
+    "issues": [],
+    "download_status": "metadata_and_file_manifest; only listed sample/auxiliary files are downloaded"
+  },
+  {
+    "record_id": 31308,
+    "title": "JetHT dataset in NanoAOD format enhanced with Particle Flow candidates from RunG of 2016",
+    "record_url": "https://opendata.cern.ch/record/31308",
+    "api_url": "https://opendata.cern.ch/api/records/31308",
+    "doi": null,
+    "license": {
+      "attribution": "CC0-1.0"
+    },
+    "published": "2024",
+    "created": [
+      "2016"
+    ],
+    "run_period": null,
+    "distribution_as_published": {
+      "formats": [
+        "json",
+        "nanoaod-pf",
+        "root"
+      ],
+      "number_events": 120517157,
+      "number_files": 842,
+      "size": 1486368460
+    },
+    "enumerated_files": 843,
+    "enumerated_root_files": 842,
+    "enumerated_bytes": 1522040873840,
+    "manifest": "opendata/manifests/31308.jsonl",
+    "metadata": "opendata/records/31308.json",
+    "issues": [
+      "Declared dataset size differs from sum of enumerated file sizes.",
+      "Declared file count differs from enumerated file count; may include auxiliary files."
+    ],
+    "download_status": "metadata_and_file_manifest; only listed sample/auxiliary files are downloaded"
+  },
+  {
+    "record_id": 63078,
+    "title": "/QCD_HT1000to1500_TuneCP5_PSWeights_13TeV-madgraphMLM-pythia8/RunIISummer20UL16MiniAODv2-106X_mcRun2_asymptotic_v17-v1/MINIAODSIM",
+    "record_url": "https://opendata.cern.ch/record/63078",
+    "api_url": "https://opendata.cern.ch/api/records/63078",
+    "doi": "10.7483/OPENDATA.CMS.PQ1T.2IUK",
+    "license": {
+      "attribution": "CC0-1.0"
+    },
+    "published": "2024",
+    "created": [
+      "2016"
+    ],
+    "run_period": [
+      "Run2016G",
+      "Run2016H"
+    ],
+    "distribution_as_published": {
+      "formats": [
+        "miniaodsim",
+        "root"
+      ],
+      "number_events": 12675816,
+      "number_files": 280,
+      "size": 767830666187
+    },
+    "enumerated_files": 280,
+    "enumerated_root_files": 280,
+    "enumerated_bytes": 767830666187,
+    "manifest": "opendata/manifests/63078.jsonl",
+    "metadata": "opendata/records/63078.json",
+    "issues": [],
+    "download_status": "metadata_and_file_manifest; only listed sample/auxiliary files are downloaded"
+  },
+  {
+    "record_id": 63079,
+    "title": "/QCD_HT1000to1500_TuneCP5_PSWeights_13TeV-madgraphMLM-pythia8/RunIISummer20UL16NanoAODv9-106X_mcRun2_asymptotic_v17-v1/NANOAODSIM",
+    "record_url": "https://opendata.cern.ch/record/63079",
+    "api_url": "https://opendata.cern.ch/api/records/63079",
+    "doi": "10.7483/OPENDATA.CMS.IBQK.9KUG",
+    "license": {
+      "attribution": "CC0"
+    },
+    "published": "2024",
+    "created": [
+      "2016"
+    ],
+    "run_period": [
+      "Run2016G",
+      "Run2016H"
+    ],
+    "distribution_as_published": {
+      "formats": [
+        "nanoaodsim",
+        "root"
+      ],
+      "number_events": 12254238,
+      "number_files": 24,
+      "size": 28440710472
+    },
+    "enumerated_files": 24,
+    "enumerated_root_files": 24,
+    "enumerated_bytes": 28440710472,
+    "manifest": "opendata/manifests/63079.jsonl",
+    "metadata": "opendata/records/63079.json",
+    "issues": [],
+    "download_status": "metadata_and_file_manifest; only listed sample/auxiliary files are downloaded"
+  },
+  {
+    "record_id": 80000,
+    "title": "ATLAS DAOD_PHYSLITE format Run 2 2015 proton-proton collision data",
+    "record_url": "https://opendata.cern.ch/record/80000",
+    "api_url": "https://opendata.cern.ch/api/records/80000",
+    "doi": "10.7483/OPENDATA.ATLAS.AOQL.8TT3",
+    "license": {
+      "attribution": "CC0-1.0"
+    },
+    "published": "2024",
+    "created": [
+      "2015"
+    ],
+    "run_period": [
+      "2015"
+    ],
+    "distribution_as_published": {
+      "formats": [
+        "DAOD_PHYSLITE",
+        "root"
+      ],
+      "number_events": 1694555330,
+      "number_files": 10049,
+      "size": 10276812350024
+    },
+    "enumerated_files": 10049,
+    "enumerated_root_files": 10049,
+    "enumerated_bytes": 10276812350024,
+    "manifest": "opendata/manifests/80000.jsonl",
+    "metadata": "opendata/records/80000.json",
+    "issues": [],
+    "download_status": "metadata_and_file_manifest; only listed sample/auxiliary files are downloaded"
+  },
+  {
+    "record_id": 80001,
+    "title": "ATLAS DAOD_PHYSLITE format Run 2 2016 proton-proton collision data",
+    "record_url": "https://opendata.cern.ch/record/80001",
+    "api_url": "https://opendata.cern.ch/api/records/80001",
+    "doi": "10.7483/OPENDATA.ATLAS.4ZES.DJHA",
+    "license": {
+      "attribution": "CC0-1.0"
+    },
+    "published": "2024",
+    "created": [
+      "2016"
+    ],
+    "run_period": [
+      "2016"
+    ],
+    "distribution_as_published": {
+      "formats": [
+        "DAOD_PHYSLITE",
+        "root"
+      ],
+      "number_events": 5383448881,
+      "number_files": 45571,
+      "size": 38899952609153
+    },
+    "enumerated_files": 45571,
+    "enumerated_root_files": 45571,
+    "enumerated_bytes": 38899952609153,
+    "manifest": "opendata/manifests/80001.jsonl",
+    "metadata": "opendata/records/80001.json",
+    "issues": [],
+    "download_status": "metadata_and_file_manifest; only listed sample/auxiliary files are downloaded"
+  },
+  {
+    "record_id": 80014,
+    "title": "ATLAS DAOD_PHYSLITE format MC simulation QCD jet nominal samples",
+    "record_url": "https://opendata.cern.ch/record/80014",
+    "api_url": "https://opendata.cern.ch/api/records/80014",
+    "doi": "10.7483/OPENDATA.ATLAS.OXQR.DJQ3",
+    "license": {
+      "attribution": "CC0-1.0"
+    },
+    "published": "2024",
+    "created": [
+      "2015",
+      "2016"
+    ],
+    "run_period": [
+      "2015",
+      "2016"
+    ],
+    "distribution_as_published": {
+      "formats": [
+        "DAOD_PHYSLITE",
+        "root"
+      ],
+      "number_events": 313881400,
+      "number_files": 2097,
+      "size": 3156088238286
+    },
+    "enumerated_files": 2097,
+    "enumerated_root_files": 2097,
+    "enumerated_bytes": 3156088238286,
+    "manifest": "opendata/manifests/80014.jsonl",
+    "metadata": "opendata/records/80014.json",
+    "issues": [],
+    "download_status": "metadata_and_file_manifest; only listed sample/auxiliary files are downloaded"
+  }
+]

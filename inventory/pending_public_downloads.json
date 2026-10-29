@@ -1,0 +1,2136 @@
+[
+  {
+    "url": "https://cds.cern.ch/record/2947130/files/EXO-25-004-pas.pdf",
+    "path": "analyses/CMS_EXO-25-004/report.pdf",
+    "kind": "analysis-report",
+    "checked_utc": "2026-10-29T02:09:57.570197+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "resolved_url": "https://cds.cern.ch/record/2947130/files/EXO-25-004-pas.pdf",
+    "status": "failed",
+    "error": "not a PDF"
+  },
+  {
+    "url": "https://opendata.cern.ch/api/records/80002",
+    "path": "opendata/records/80002.json",
+    "kind": "dataset-metadata",
+    "checked_utc": "2026-10-29T02:10:12.615501+00:00",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://cds.cern.ch/record/2961528/files/EXO-25-021-pas.pdf",
+    "path": "analyses/CMS_EXO-25-021/report.pdf",
+    "kind": "analysis-report",
+    "checked_utc": "2026-10-29T02:11:32.901954+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "resolved_url": "https://cds.cern.ch/record/2961528/files/EXO-25-021-pas.pdf",
+    "status": "failed",
+    "error": "not a PDF"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-24-038/",
+    "path": "analyses/CMS_EXO-24-038/index.html",
+    "kind": "results-page",
+    "checked_utc": "2026-10-29T02:19:10.166706+00:00",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-22-024/CMS-EXO-22-024_Figure_004-b.pdf",
+    "path": "analyses/CMS_EXO-22-024/assets/CMS-EXO-22-024_Figure_004-b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:22.620271+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-22-024/CMS-EXO-22-024_Figure_004-c.pdf",
+    "path": "analyses/CMS_EXO-22-024/assets/CMS-EXO-22-024_Figure_004-c.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:22.638121+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-22-024/CMS-EXO-22-024_Figure_004-a.pdf",
+    "path": "analyses/CMS_EXO-22-024/assets/CMS-EXO-22-024_Figure_004-a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:22.577451+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-22-024/CMS-EXO-22-024_Figure_005-a.pdf",
+    "path": "analyses/CMS_EXO-22-024/assets/CMS-EXO-22-024_Figure_005-a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:22.705763+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-22-024/CMS-EXO-22-024_Figure_005-b.pdf",
+    "path": "analyses/CMS_EXO-22-024/assets/CMS-EXO-22-024_Figure_005-b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:22.747023+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-22-024/CMS-EXO-22-024_Figure_005.pdf",
+    "path": "analyses/CMS_EXO-22-024/assets/CMS-EXO-22-024_Figure_005.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:22.938787+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-22-024/CMS-EXO-22-024_Figure_004.pdf",
+    "path": "analyses/CMS_EXO-22-024/assets/CMS-EXO-22-024_Figure_004.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:22.686081+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-22-024/CMS-EXO-22-024_Figure_004-d.pdf",
+    "path": "analyses/CMS_EXO-22-024/assets/CMS-EXO-22-024_Figure_004-d.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:22.682465+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-22-024/CMS-EXO-22-024_Figure_006-a.pdf",
+    "path": "analyses/CMS_EXO-22-024/assets/CMS-EXO-22-024_Figure_006-a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.774244+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-22-024/CMS-EXO-22-024_Figure_006-b.pdf",
+    "path": "analyses/CMS_EXO-22-024/assets/CMS-EXO-22-024_Figure_006-b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.774881+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-22-024/CMS-EXO-22-024_Table_001.pdf",
+    "path": "analyses/CMS_EXO-22-024/assets/CMS-EXO-22-024_Table_001.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.779216+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-22-024/CMS-EXO-22-024_Figure_006.pdf",
+    "path": "analyses/CMS_EXO-22-024/assets/CMS-EXO-22-024_Figure_006.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.776750+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/fig_01b.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/fig_01b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.781238+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-22-024/CMS-EXO-22-024_Figure_007.pdf",
+    "path": "analyses/CMS_EXO-22-024/assets/CMS-EXO-22-024_Figure_007.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.778525+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/fig_01a.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/fig_01a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.780286+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/fig_02b.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/fig_02b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.784338+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/fig_02a.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/fig_02a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.782589+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/fig_03.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/fig_03.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.786429+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/fig_04a.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/fig_04a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.789638+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/fig_04b.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/fig_04b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.790676+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/fig_04c.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/fig_04c.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.792454+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/fig_05a.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/fig_05a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.793102+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/fig_05b.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/fig_05b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.794476+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/fig_05c.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/fig_05c.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.797058+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/fig_06a.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/fig_06a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.798213+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/fig_06c.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/fig_06c.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.801237+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/fig_06b.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/fig_06b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.800230+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/fig_06e.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/fig_06e.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.806254+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/fig_07a.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/fig_07a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.807967+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/fig_06d.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/fig_06d.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.803792+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/fig_07b.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/fig_07b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.810148+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/fig_07c.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/fig_07c.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.810992+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/fig_08a.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/fig_08a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.812499+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/fig_08b.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/fig_08b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.813212+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/fig_09b.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/fig_09b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.816078+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/fig_09a.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/fig_09a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.815418+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/fig_09c.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/fig_09c.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.818000+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/fig_10c.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/fig_10c.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.820244+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/fig_10a.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/fig_10a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.819043+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/fig_10b.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/fig_10b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.819720+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_01d.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_01d.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.834776+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_01c.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_01c.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.833663+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_01a.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_01a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.829356+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_02a.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_02a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.840023+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_01b.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_01b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.832282+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_02b.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_02b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.841454+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_02c.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_02c.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.845285+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_03a.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_03a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.848087+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_02d.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_02d.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.847167+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_04.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_04.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.857009+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_03b.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_03b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.853525+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_05c.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_05c.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.868075+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_05a.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_05a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.862000+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_05b.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_05b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.864813+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_06a.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_06a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.874280+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_06b.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_06b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.876017+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_08a.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_08a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.878467+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_07a.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_07a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.876465+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_07b.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_07b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.877179+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_08b.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_08b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.881479+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_09a.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_09a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.882631+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_09b.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_09b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.883852+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_10.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_10.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.886110+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_11a.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_11a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.887752+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_11b.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_11b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.888218+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_12a.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_12a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.890165+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_12b.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_12b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.891269+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_13a.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_13a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.892470+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_13b.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_13b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.894663+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_14b.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_14b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.897270+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_14a.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_14a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.895233+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_14c.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_14c.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.898937+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_15b.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_15b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.902105+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_15a.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_15a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.900176+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_16.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_16.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.905915+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/figaux_15c.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/figaux_15c.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.903905+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/tab_02.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/tab_02.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.909580+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/tab_01.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/tab_01.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.908458+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2022-38/tabaux_01.pdf",
+    "path": "analyses/ATLAS_EXOT-2022-38/assets/tabaux_01.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.911520+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/fig_02a.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/fig_02a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.913953+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/fig_01.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/fig_01.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.913176+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/fig_02b.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/fig_02b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.917299+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/fig_02c.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/fig_02c.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.918005+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/fig_02d.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/fig_02d.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.918749+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/fig_04b.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/fig_04b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.923808+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/fig_03.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/fig_03.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.920855+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/fig_04a.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/fig_04a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.921209+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/fig_05a.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/fig_05a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.924373+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/fig_05b.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/fig_05b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.926964+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/figaux_01a.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/figaux_01a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.928388+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/figaux_01b.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/figaux_01b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.930139+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/figaux_01c.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/figaux_01c.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.931806+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/figaux_02a.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/figaux_02a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.933540+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/figaux_01d.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/figaux_01d.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.932451+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/figaux_02b.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/figaux_02b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.935601+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/figaux_02c.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/figaux_02c.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.937534+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/figaux_03a.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/figaux_03a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.939136+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/figaux_05c.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/figaux_05c.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.947098+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/figaux_03b.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/figaux_03b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.940905+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/figaux_04a.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/figaux_04a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.941217+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/figaux_05a.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/figaux_05a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.942980+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/figaux_05b.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/figaux_05b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.945735+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/figaux_04b.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/figaux_04b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.941634+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/figaux_06a.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/figaux_06a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.948630+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/figaux_07a.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/figaux_07a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.950927+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/figaux_06b.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/figaux_06b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.949608+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/figaux_07b.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/figaux_07b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.951444+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/figaux_08.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/figaux_08.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.957187+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/figaux_09b.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/figaux_09b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.959786+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/figaux_09a.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/figaux_09a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.958089+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/figaux_09c.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/figaux_09c.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.960888+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/figaux_09d.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/figaux_09d.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.963777+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/figaux_10a.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/figaux_10a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.966237+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/figaux_10b.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/figaux_10b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.966389+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/figaux_11a.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/figaux_11a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.969777+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/tab_01.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/tab_01.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.972127+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/figaux_11b.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/figaux_11b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.971210+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/tab_02.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/tab_02.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.973776+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/figaux_10c.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/figaux_10c.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.967626+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/tabaux_01.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/tabaux_01.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.976870+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/tabaux_02.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/tabaux_02.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.978629+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/tabaux_04.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/tabaux_04.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.980294+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/tabaux_05.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/tabaux_05.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.980917+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HIGG-2018-27/tabaux_03.pdf",
+    "path": "analyses/ATLAS_HIGG-2018-27/assets/tabaux_03.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.979665+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HDBS-2023-17/fig_01a.pdf",
+    "path": "analyses/ATLAS_HDBS-2023-17/assets/fig_01a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.982112+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HDBS-2023-17/fig_01b.pdf",
+    "path": "analyses/ATLAS_HDBS-2023-17/assets/fig_01b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.984265+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HDBS-2023-17/fig_02b.pdf",
+    "path": "analyses/ATLAS_HDBS-2023-17/assets/fig_02b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.985926+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HDBS-2023-17/fig_02a.pdf",
+    "path": "analyses/ATLAS_HDBS-2023-17/assets/fig_02a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.985326+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HDBS-2023-17/fig_02c.pdf",
+    "path": "analyses/ATLAS_HDBS-2023-17/assets/fig_02c.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.988078+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HDBS-2023-17/fig_03b.pdf",
+    "path": "analyses/ATLAS_HDBS-2023-17/assets/fig_03b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.992475+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HDBS-2023-17/fig_02d.pdf",
+    "path": "analyses/ATLAS_HDBS-2023-17/assets/fig_02d.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.990662+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HDBS-2023-17/fig_03a.pdf",
+    "path": "analyses/ATLAS_HDBS-2023-17/assets/fig_03a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.991969+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HDBS-2023-17/figaux_01a.pdf",
+    "path": "analyses/ATLAS_HDBS-2023-17/assets/figaux_01a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.994610+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HDBS-2023-17/figaux_01b.pdf",
+    "path": "analyses/ATLAS_HDBS-2023-17/assets/figaux_01b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.995972+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HDBS-2023-17/figaux_02a.pdf",
+    "path": "analyses/ATLAS_HDBS-2023-17/assets/figaux_02a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.997569+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HDBS-2023-17/figaux_02b.pdf",
+    "path": "analyses/ATLAS_HDBS-2023-17/assets/figaux_02b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:25.999381+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HDBS-2023-17/figaux_02c.pdf",
+    "path": "analyses/ATLAS_HDBS-2023-17/assets/figaux_02c.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.000285+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HDBS-2023-17/figaux_02d.pdf",
+    "path": "analyses/ATLAS_HDBS-2023-17/assets/figaux_02d.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.002968+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HDBS-2023-17/figaux_03a.pdf",
+    "path": "analyses/ATLAS_HDBS-2023-17/assets/figaux_03a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.003512+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HDBS-2023-17/figaux_03b.pdf",
+    "path": "analyses/ATLAS_HDBS-2023-17/assets/figaux_03b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.005244+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HDBS-2023-17/figaux_04.pdf",
+    "path": "analyses/ATLAS_HDBS-2023-17/assets/figaux_04.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.006876+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HDBS-2023-17/figaux_05a.pdf",
+    "path": "analyses/ATLAS_HDBS-2023-17/assets/figaux_05a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.008083+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/HDBS-2023-17/figaux_05b.pdf",
+    "path": "analyses/ATLAS_HDBS-2023-17/assets/figaux_05b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.010155+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/fig_01a.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/fig_01a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.011377+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/fig_01b.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/fig_01b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.012294+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/fig_01d.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/fig_01d.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.015709+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/fig_01c.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/fig_01c.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.014466+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/fig_01e.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/fig_01e.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.017349+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/fig_02.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/fig_02.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.018946+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/fig_03a.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/fig_03a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.021164+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/fig_04.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/fig_04.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.023882+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/fig_03b.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/fig_03b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.022904+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/fig_05a.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/fig_05a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.027029+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/fig_05b.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/fig_05b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.029331+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/fig_05c.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/fig_05c.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.029866+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/fig_05d.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/fig_05d.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.031572+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/fig_06.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/fig_06.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.032243+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/figaux_01a.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/figaux_01a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.035264+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/figaux_01b.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/figaux_01b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.038020+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/fig_07.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/fig_07.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.034063+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/figaux_03a.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/figaux_03a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.041989+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/figaux_02a.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/figaux_02a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.040308+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/figaux_02b.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/figaux_02b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.040785+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/figaux_03b.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/figaux_03b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.043394+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/figaux_04a.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/figaux_04a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.044500+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/figaux_04b.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/figaux_04b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.046454+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/figaux_04c.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/figaux_04c.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.048087+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/tabaux_01.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/tabaux_01.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.050022+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/figaux_04d.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/figaux_04d.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.048911+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/tabaux_02.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/tabaux_02.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.052026+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/tabaux_03.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/tabaux_03.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.052680+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/tabaux_04.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/tabaux_04.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.053439+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/tabaux_05.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/tabaux_05.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.055597+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/tabaux_06.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/tabaux_06.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.056800+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/tabaux_08.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/tabaux_08.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.058291+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/tabaux_07.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/tabaux_07.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.057658+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/tabaux_09.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/tabaux_09.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.059637+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/tabaux_10.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/tabaux_10.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.062113+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/tabaux_11.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/tabaux_11.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.063247+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-32/tabaux_12.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-32/assets/tabaux_12.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.063969+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/fig_01b.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/fig_01b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.071458+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/fig_02.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/fig_02.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.072151+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/fig_01a.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/fig_01a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.066427+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/fig_04a.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/fig_04a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.081200+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/fig_03a.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/fig_03a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.073943+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/fig_03b.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/fig_03b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.078023+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_01a.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_01a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.084029+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/fig_04b.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/fig_04b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.083404+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_01b.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_01b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.085305+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_02a.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_02a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.086986+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_02b.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_02b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.088212+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_02c.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_02c.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.089380+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_02d.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_02d.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.090280+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_02e.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_02e.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.091626+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_02f.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_02f.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.092923+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_03a.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_03a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.093324+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_03b.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_03b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.095431+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_04a.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_04a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.097619+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_05a.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_05a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.106560+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_04b.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_04b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.100079+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_05b.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_05b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.111285+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_05c.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_05c.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.112350+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_06a.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_06a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.113122+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_06b.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_06b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.114449+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_06c.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_06c.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.117319+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_07.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_07.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.117572+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_10a.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_10a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.119167+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_10c.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_10c.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.123608+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_10b.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_10b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.122299+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_10d.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_10d.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.124329+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_10e.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_10e.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.124810+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_10f.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_10f.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.128283+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_11a.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_11a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.129665+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_10g.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_10g.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.129073+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_11b.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_11b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.130765+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_11c.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_11c.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.132192+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_11d.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_11d.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.133497+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_11e.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_11e.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.134299+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_11f.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_11f.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.136315+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_11g.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_11g.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.137794+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_12a.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_12a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.139054+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_12b.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_12b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.140971+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_12c.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_12c.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.143678+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_13b.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_13b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.145735+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_13a.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_13a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.145084+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_14b.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_14b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.147956+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_14a.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_14a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.146933+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_15.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_15.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.148421+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/figaux_16.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/figaux_16.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.149329+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/tab_01.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/tab_01.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.153270+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/tabaux_02.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/tabaux_02.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.157746+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/tab_03.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/tab_03.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.155938+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/tabaux_01.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/tabaux_01.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.156571+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/tab_02.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/tab_02.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.154729+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-08/tabaux_03.pdf",
+    "path": "analyses/ATLAS_EXOT-2018-08/assets/tabaux_03.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.158226+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-20-017/CMS-HIG-20-017_Figure_001-a.pdf",
+    "path": "analyses/CMS_HIG-20-017/assets/CMS-HIG-20-017_Figure_001-a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.160167+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-20-017/CMS-HIG-20-017_Figure_001-b.pdf",
+    "path": "analyses/CMS_HIG-20-017/assets/CMS-HIG-20-017_Figure_001-b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.161535+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-20-017/CMS-HIG-20-017_Figure_002-a.pdf",
+    "path": "analyses/CMS_HIG-20-017/assets/CMS-HIG-20-017_Figure_002-a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.162658+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-20-017/CMS-HIG-20-017_Figure_002-b.pdf",
+    "path": "analyses/CMS_HIG-20-017/assets/CMS-HIG-20-017_Figure_002-b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.163887+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-20-017/CMS-HIG-20-017_Figure_001.pdf",
+    "path": "analyses/CMS_HIG-20-017/assets/CMS-HIG-20-017_Figure_001.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.161807+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-20-017/CMS-HIG-20-017_Figure_002.pdf",
+    "path": "analyses/CMS_HIG-20-017/assets/CMS-HIG-20-017_Figure_002.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.165423+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-20-017/CMS-HIG-20-017_Figure_003-a.pdf",
+    "path": "analyses/CMS_HIG-20-017/assets/CMS-HIG-20-017_Figure_003-a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.166647+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-20-017/CMS-HIG-20-017_Figure_003-b.pdf",
+    "path": "analyses/CMS_HIG-20-017/assets/CMS-HIG-20-017_Figure_003-b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.168709+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-20-017/CMS-HIG-20-017_Figure_003.pdf",
+    "path": "analyses/CMS_HIG-20-017/assets/CMS-HIG-20-017_Figure_003.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.169761+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-20-017/CMS-HIG-20-017_Figure_004-b.pdf",
+    "path": "analyses/CMS_HIG-20-017/assets/CMS-HIG-20-017_Figure_004-b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.171124+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-20-017/CMS-HIG-20-017_Figure_004.pdf",
+    "path": "analyses/CMS_HIG-20-017/assets/CMS-HIG-20-017_Figure_004.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.172558+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-20-017/CMS-HIG-20-017_Figure_004-a.pdf",
+    "path": "analyses/CMS_HIG-20-017/assets/CMS-HIG-20-017_Figure_004-a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.170660+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-20-017/CMS-HIG-20-017_Figure_005-a.pdf",
+    "path": "analyses/CMS_HIG-20-017/assets/CMS-HIG-20-017_Figure_005-a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.173763+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-20-017/CMS-HIG-20-017_Figure_005-b.pdf",
+    "path": "analyses/CMS_HIG-20-017/assets/CMS-HIG-20-017_Figure_005-b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.174810+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-20-017/CMS-HIG-20-017_Figure_005-d.pdf",
+    "path": "analyses/CMS_HIG-20-017/assets/CMS-HIG-20-017_Figure_005-d.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.177733+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-20-017/CMS-HIG-20-017_Figure_005-c.pdf",
+    "path": "analyses/CMS_HIG-20-017/assets/CMS-HIG-20-017_Figure_005-c.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.176637+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-20-017/CMS-HIG-20-017_Figure_005.pdf",
+    "path": "analyses/CMS_HIG-20-017/assets/CMS-HIG-20-017_Figure_005.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.178750+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-20-017/CMS-HIG-20-017_Figure_006.pdf",
+    "path": "analyses/CMS_HIG-20-017/assets/CMS-HIG-20-017_Figure_006.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.180024+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-20-017/CMS-HIG-20-017_Figure_007.pdf",
+    "path": "analyses/CMS_HIG-20-017/assets/CMS-HIG-20-017_Figure_007.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.180644+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-20-017/CMS-HIG-20-017_Figure_008-b.pdf",
+    "path": "analyses/CMS_HIG-20-017/assets/CMS-HIG-20-017_Figure_008-b.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.186780+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-20-017/CMS-HIG-20-017_Figure_008-a.pdf",
+    "path": "analyses/CMS_HIG-20-017/assets/CMS-HIG-20-017_Figure_008-a.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.181581+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-20-017/CMS-HIG-20-017_Figure_008-c.pdf",
+    "path": "analyses/CMS_HIG-20-017/assets/CMS-HIG-20-017_Figure_008-c.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.197582+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-20-017/CMS-HIG-20-017_Table_001.pdf",
+    "path": "analyses/CMS_HIG-20-017/assets/CMS-HIG-20-017_Table_001.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.202119+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-20-017/CMS-HIG-20-017_Figure_008.pdf",
+    "path": "analyses/CMS_HIG-20-017/assets/CMS-HIG-20-017_Figure_008.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.200397+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-20-017/CMS-HIG-20-017_Table_003.pdf",
+    "path": "analyses/CMS_HIG-20-017/assets/CMS-HIG-20-017_Table_003.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.206246+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://cms-results.web.cern.ch/cms-results/public-results/publications/HIG-20-017/CMS-HIG-20-017_Table_002.pdf",
+    "path": "analyses/CMS_HIG-20-017/assets/CMS-HIG-20-017_Table_002.pdf",
+    "kind": "analysis-asset",
+    "checked_utc": "2026-10-29T02:20:26.205189+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://arxiv.org/pdf/2507.17884v2",
+    "path": "papers/2507.17884v2.pdf",
+    "kind": "paper",
+    "checked_utc": "2026-10-29T02:20:26.208183+00:00",
+    "status": "failed",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  }
+]

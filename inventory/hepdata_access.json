@@ -1,0 +1,152 @@
+[
+  {
+    "analysis": "CMS_EXO-21-010",
+    "record_id": "ins2098256",
+    "record_url": "https://www.hepdata.net/record/ins2098256",
+    "doi": "10.17182/hepdata.130817",
+    "yaml_export_url": "https://www.hepdata.net/download/submission/ins2098256/yaml",
+    "priority": "core",
+    "status": "not downloaded; HEPData endpoint challenge encountered in this environment; record-specific retrievability not assumed",
+    "version_policy": "Latest is a moving target. On retrieval save version, DOI, modification timestamp and checksum."
+  },
+  {
+    "analysis": "ATLAS_EXOT-2022-18",
+    "record_id": "ins2682337",
+    "record_url": "https://www.hepdata.net/record/ins2682337",
+    "doi": "10.17182/hepdata.140530",
+    "yaml_export_url": "https://www.hepdata.net/download/submission/ins2682337/yaml",
+    "priority": "core",
+    "status": "not downloaded; HEPData endpoint challenge encountered in this environment; record-specific retrievability not assumed",
+    "version_policy": "Latest is a moving target. On retrieval save version, DOI, modification timestamp and checksum."
+  },
+  {
+    "analysis": "CMS_EXO-24-039",
+    "record_id": "ins3205293",
+    "record_url": "https://www.hepdata.net/record/ins3205293",
+    "doi": "10.17182/hepdata.169576",
+    "yaml_export_url": "https://www.hepdata.net/download/submission/ins3205293/yaml",
+    "priority": "core",
+    "status": "not downloaded; HEPData endpoint challenge encountered in this environment; record-specific retrievability not assumed",
+    "version_policy": "Latest is a moving target. On retrieval save version, DOI, modification timestamp and checksum."
+  },
+  {
+    "analysis": "CMS_B2G-20-009",
+    "record_id": "ins2159368",
+    "record_url": "https://www.hepdata.net/record/ins2159368",
+    "doi": "10.17182/hepdata.132485",
+    "yaml_export_url": "https://www.hepdata.net/download/submission/ins2159368/yaml",
+    "priority": "core",
+    "status": "not downloaded; HEPData endpoint challenge encountered in this environment; record-specific retrievability not assumed",
+    "version_policy": "Latest is a moving target. On retrieval save version, DOI, modification timestamp and checksum."
+  },
+  {
+    "analysis": "CMS_EXO-17-021",
+    "record_id": "ins1685989",
+    "record_url": "https://www.hepdata.net/record/ins1685989",
+    "doi": null,
+    "yaml_export_url": "https://www.hepdata.net/download/submission/ins1685989/yaml",
+    "priority": "comparison",
+    "status": "not downloaded; HEPData endpoint challenge encountered in this environment; record-specific retrievability not assumed",
+    "version_policy": "Latest is a moving target. On retrieval save version, DOI, modification timestamp and checksum."
+  },
+  {
+    "analysis": "CMS_EXO-19-019",
+    "record_id": "ins1849964",
+    "record_url": "https://www.hepdata.net/record/ins1849964",
+    "doi": "10.17182/hepdata.101186",
+    "yaml_export_url": "https://www.hepdata.net/download/submission/ins1849964/yaml",
+    "priority": "comparison",
+    "status": "not downloaded; HEPData endpoint challenge encountered in this environment; record-specific retrievability not assumed",
+    "version_policy": "Latest is a moving target. On retrieval save version, DOI, modification timestamp and checksum."
+  },
+  {
+    "analysis": "CMS_HIG-20-017",
+    "record_id": "ins1857811",
+    "record_url": "https://www.hepdata.net/record/ins1857811",
+    "doi": "10.17182/hepdata.102461",
+    "yaml_export_url": "https://www.hepdata.net/download/submission/ins1857811/yaml",
+    "priority": "comparison",
+    "status": "not downloaded; HEPData endpoint challenge encountered in this environment; record-specific retrievability not assumed",
+    "version_policy": "Latest is a moving target. On retrieval save version, DOI, modification timestamp and checksum."
+  },
+  {
+    "analysis": "ATLAS_EXOT-2018-32",
+    "record_id": "ins1782373",
+    "record_url": "https://www.hepdata.net/record/ins1782373",
+    "doi": null,
+    "yaml_export_url": "https://www.hepdata.net/download/submission/ins1782373/yaml",
+    "priority": "comparison",
+    "status": "not downloaded; HEPData endpoint challenge encountered in this environment; record-specific retrievability not assumed",
+    "version_policy": "Latest is a moving target. On retrieval save version, DOI, modification timestamp and checksum."
+  },
+  {
+    "analysis": "ATLAS_EXOT-2018-08",
+    "record_id": "ins1725190",
+    "record_url": "https://www.hepdata.net/record/ins1725190",
+    "doi": null,
+    "yaml_export_url": "https://www.hepdata.net/download/submission/ins1725190/yaml",
+    "priority": "comparison",
+    "status": "not downloaded; HEPData endpoint challenge encountered in this environment; record-specific retrievability not assumed",
+    "version_policy": "Latest is a moving target. On retrieval save version, DOI, modification timestamp and checksum."
+  },
+  {
+    "analysis": "ATLAS_HDBS-2023-19",
+    "record_id": "ins2807795",
+    "record_url": "https://www.hepdata.net/record/ins2807795",
+    "doi": null,
+    "yaml_export_url": "https://www.hepdata.net/download/submission/ins2807795/yaml",
+    "priority": "comparison",
+    "status": "not downloaded; HEPData endpoint challenge encountered in this environment; record-specific retrievability not assumed",
+    "version_policy": "Latest is a moving target. On retrieval save version, DOI, modification timestamp and checksum."
+  },
+  {
+    "analysis": "ATLAS_EXOT-2022-38",
+    "record_id": "146753",
+    "record_url": "https://www.hepdata.net/record/146753",
+    "doi": "10.17182/hepdata.146753",
+    "yaml_export_url": "https://www.hepdata.net/download/submission/146753/yaml",
+    "priority": "comparison",
+    "status": "not downloaded; HEPData endpoint challenge encountered in this environment; record-specific retrievability not assumed",
+    "version_policy": "Latest is a moving target. On retrieval save version, DOI, modification timestamp and checksum."
+  },
+  {
+    "analysis": "ATLAS_HIGG-2018-27",
+    "record_id": "100161",
+    "record_url": "https://www.hepdata.net/record/100161",
+    "doi": "10.17182/hepdata.100161",
+    "yaml_export_url": "https://www.hepdata.net/download/submission/100161/yaml",
+    "priority": "comparison",
+    "status": "not downloaded; HEPData endpoint challenge encountered in this environment; record-specific retrievability not assumed",
+    "version_policy": "Latest is a moving target. On retrieval save version, DOI, modification timestamp and checksum."
+  },
+  {
+    "analysis": "ATLAS_HDBS-2023-17",
+    "record_id": "ins2726938",
+    "record_url": "https://www.hepdata.net/record/ins2726938",
+    "doi": null,
+    "yaml_export_url": "https://www.hepdata.net/download/submission/ins2726938/yaml",
+    "priority": "comparison",
+    "status": "not downloaded; HEPData endpoint challenge encountered in this environment; record-specific retrievability not assumed",
+    "version_policy": "Latest is a moving target. On retrieval save version, DOI, modification timestamp and checksum."
+  },
+  {
+    "analysis": "ATLAS_EXOT-2018-49",
+    "record_id": "ins3094414",
+    "record_url": "https://www.hepdata.net/record/ins3094414",
+    "doi": null,
+    "yaml_export_url": "https://www.hepdata.net/download/submission/ins3094414/yaml",
+    "priority": "comparison",
+    "status": "not downloaded; HEPData endpoint challenge encountered in this environment; record-specific retrievability not assumed",
+    "version_policy": "Latest is a moving target. On retrieval save version, DOI, modification timestamp and checksum."
+  },
+  {
+    "analysis": "CMS_EXO-22-024",
+    "record_id": "ins2787227",
+    "record_url": "https://www.hepdata.net/record/ins2787227",
+    "doi": "10.17182/hepdata.150677",
+    "yaml_export_url": "https://www.hepdata.net/download/submission/ins2787227/yaml",
+    "priority": "comparison",
+    "status": "not downloaded; HEPData endpoint challenge encountered in this environment; record-specific retrievability not assumed",
+    "version_policy": "Latest is a moving target. On retrieval save version, DOI, modification timestamp and checksum."
+  }
+]

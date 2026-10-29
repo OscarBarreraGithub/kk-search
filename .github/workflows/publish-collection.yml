@@ -1,0 +1,72 @@
+name: Publish complete data collection
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'archives/**'
+      - 'scripts/materialize.py'
+      - 'scripts/restore_samples.py'
+      - '.github/workflows/publish-collection.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-initial-data-collection
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Check out the exact public commit
+        run: |
+          git init workspace
+          git -C workspace remote add origin "${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}.git"
+          git -C workspace fetch --depth=1 origin "$GITHUB_SHA"
+          git -C workspace checkout --detach FETCH_HEAD
+      - name: Restore and verify the offline sources
+        working-directory: workspace
+        run: python3 scripts/materialize.py
+      - name: Restore the four public CERN samples
+        working-directory: workspace
+        run: |
+          for attempt in 1 2 3; do
+            if python3 scripts/restore_samples.py --execute; then exit 0; fi
+            if [ "$attempt" -eq 3 ]; then exit 1; fi
+            sleep 5
+          done
+      - name: Verify every collected file and build ZIP
+        working-directory: workspace
+        run: |
+          python3 kk_data_access_2026-10-28/verify_package.py
+          python3 - <<'PY'
+          import pathlib, zipfile, hashlib
+          base = pathlib.Path('kk_data_access_2026-10-28')
+          out = pathlib.Path('KK_Data_Collection.zip')
+          with zipfile.ZipFile(out, 'w', compression=zipfile.ZIP_DEFLATED, compresslevel=5) as z:
+              for p in sorted(base.rglob('*')):
+                  if p.is_file() and not p.name.endswith('.partial'):
+                      z.write(p, str(p))
+          digest = hashlib.sha256(out.read_bytes()).hexdigest()
+          pathlib.Path('KK_Data_Collection.zip.sha256').write_text(digest + '  ' + out.name + '\n')
+          print('Verified release ZIP:', out.stat().st_size, 'bytes')
+          PY
+      - name: Publish collection release if it does not exist
+        working-directory: workspace
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if gh release view data-2026-10-28 --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1; then
+            echo "Initial release already exists; leaving its assets unchanged."
+            exit 0
+          fi
+          gh release create data-2026-10-28 \
+            --repo "$GITHUB_REPOSITORY" \
+            --target "$GITHUB_SHA" \
+            --title "Initial data-access collection" \
+            --notes-file docs/RELEASE_NOTES.md \
+            KK_Data_Collection.zip KK_Data_Collection.zip.sha256 docs/KK_Data_Access_Report.pdf

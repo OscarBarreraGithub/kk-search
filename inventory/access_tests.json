@@ -1,0 +1,42 @@
+[
+  {
+    "record": "30525",
+    "url": "https://opendata.cern.ch/eos/opendata/cms/Run2016G/JetHT/NANOAOD/UL2016_MiniAODv2_NanoAODv9-v1/130000/CD205112-3009-AB40-ACE1-9C3C31285B4A.root",
+    "file_bytes": 141460669,
+    "status": 206,
+    "range": "bytes 0-4095/141460669",
+    "magic": "b'root\\x00\\x00\\xef\\xe1'"
+  },
+  {
+    "record": "30558",
+    "url": "https://opendata.cern.ch/eos/opendata/cms/Run2016H/JetHT/NANOAOD/UL2016_MiniAODv2_NanoAODv9-v1/70000/1CD54B78-99CC-7C4F-A89C-7A9103D28135.root",
+    "file_bytes": 407946835,
+    "status": 206,
+    "range": "bytes 0-4095/407946835",
+    "magic": "b'root\\x00\\x00\\xef\\xe1'"
+  },
+  {
+    "record": "80000",
+    "url": "https://opendata.cern.ch/eos/opendata/atlas/rucio/data15_13TeV/DAOD_PHYSLITE.37001686._000001.pool.root.1",
+    "file_bytes": 332510,
+    "status": 206,
+    "range": "bytes 0-4095/332510",
+    "magic": "b'root\\x00\\x00\\xf5Z'"
+  },
+  {
+    "record": "80001",
+    "url": "https://opendata.cern.ch/eos/opendata/atlas/rucio/data16_13TeV/DAOD_PHYSLITE.37020023._000482.pool.root.1",
+    "file_bytes": 1482922,
+    "status": 206,
+    "range": "bytes 0-4095/1482922",
+    "magic": "b'root\\x00\\x00\\xf5Z'"
+  },
+  {
+    "record": "80014",
+    "url": "https://opendata.cern.ch/eos/opendata/atlas/rucio/mc20_13TeV/DAOD_PHYSLITE.37322576._000009.pool.root.1",
+    "file_bytes": 87201141,
+    "status": 206,
+    "range": "bytes 0-4095/87201141",
+    "magic": "b'root\\x00\\x00\\xf5Z'"
+  }
+]

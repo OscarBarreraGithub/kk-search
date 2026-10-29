@@ -1,0 +1,362 @@
+{
+  "format": "Concatenated gzip-compressed POSIX tar archive",
+  "collection_directory": "kk_data_access_2026-10-28",
+  "archive_bytes": 68664326,
+  "archive_sha256": "b24f9cebde8087a9b522706f14b903ce71b9be1a353f5c5d12867098f427e5a5",
+  "parts": [
+    {
+      "path": "archives/collected_sources.tar.gz.part000",
+      "bytes": 1048576,
+      "sha256": "a42e74cc8764412727ccca40e9cd192c1a0e457a1d298a085a7788e61767f335"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part001",
+      "bytes": 1048576,
+      "sha256": "f11aff8157f3b8a55c1451e3d577be21ad83e27bad7fc6da2a52f9311221db12"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part002",
+      "bytes": 1048576,
+      "sha256": "dd5d8bac1607e5d35a68e1a559b2dd5ebbf25189e3adbe612f9049f8f651019c"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part003",
+      "bytes": 1048576,
+      "sha256": "81143d3c39a19125cd946c7d24695ca27a36d9008eb2afab20701320a4025cd8"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part004",
+      "bytes": 1048576,
+      "sha256": "b6fbc5f8a83419ccfed569715615f37356a4a1f0bdbb412dc633b788b76116c8"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part005",
+      "bytes": 1048576,
+      "sha256": "fafb96dd8287ba4ccdb8ecf0ee0c10af6b631274a905ba5ceeecf1c7e54f3b6f"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part006",
+      "bytes": 1048576,
+      "sha256": "cca7618732986e6715129d9ce2022d02d2a965db2471317f6cb59e95f29e67f4"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part007",
+      "bytes": 1048576,
+      "sha256": "60eebe6d1a3b3603a0a3d545e125e3da3c2887b0d725eb9192f83aa9112e2756"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part008",
+      "bytes": 1048576,
+      "sha256": "d612845c0f92fcffd3962e3b07e0055443d954e4e00e4eade62ca11ae79e1d91"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part009",
+      "bytes": 1048576,
+      "sha256": "255cc8b8a455449deec3b4df3641b1945ba8838253155978f63dccc49b80b027"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part010",
+      "bytes": 1048576,
+      "sha256": "48b725711e67d182e1509a03e51e2685b1ad1935a6d0ffdcea35d0094429bae4"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part011",
+      "bytes": 1048576,
+      "sha256": "0d8e7d412cf623100fa57a0889b3b42b3816c5f4b9152a146f76c531d54120e4"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part012",
+      "bytes": 1048576,
+      "sha256": "c4e6ac3a84c9027cb04531bd4f53df273a2805a7027611912443e1fbf9b8513b"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part013",
+      "bytes": 1048576,
+      "sha256": "ad0f43f531d2c89332bc652b5ff61e5c8952ffe05796c5a81bee575a8f088d53"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part014",
+      "bytes": 1048576,
+      "sha256": "cd9f79fbad0e597894db9c72f95ccd8a01b07a8eb4f6709f6bb494216a720c8c"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part015",
+      "bytes": 1048576,
+      "sha256": "921008244e367f10b1ba981ce6ccf1bceac5446d06cdb8bc0883a9863cd1d73e"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part016",
+      "bytes": 1048576,
+      "sha256": "9a153e9fb7245ff9055c8d9c20a0eb87b2d45ce261f9d3a54b8fa5a4a23b4fdc"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part017",
+      "bytes": 1048576,
+      "sha256": "7c187077d04c1ed7923c53329ac74e81f5c309cfbbda3895f1a292e950214f52"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part018",
+      "bytes": 1048576,
+      "sha256": "141468f0e8fe859d2e6bc034a71ed5dec3958f38f5bebb33fdea9f3fc1037c08"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part019",
+      "bytes": 1048576,
+      "sha256": "aadb5ef22e9406f8a2a0a3d59be5c9480e132bac57006f8f7a85d185b8f36182"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part020",
+      "bytes": 1048576,
+      "sha256": "04a89a2d4487ea75f8b321cadf4b998a5bbeac5feb1c08e0bb883812ea0c53a0"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part021",
+      "bytes": 1048576,
+      "sha256": "0f1c6ed27219d814ef1036156ac4463c55570d34db2fe39fb88cd74a6c356556"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part022",
+      "bytes": 1048576,
+      "sha256": "d284ba0a6ef458e969497233ff3ac35f5cc145c5d283a214513303a08643b626"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part023",
+      "bytes": 1048576,
+      "sha256": "12a92e698ee1dc9930c2eebda0332578a33b641901079a389d67c0fdb2b40549"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part024",
+      "bytes": 1048576,
+      "sha256": "3c3c17dbcae61c798e2e109ea7c33a2b4ab4c8fcc802afb95e8ae0ed62b01aa4"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part025",
+      "bytes": 1048576,
+      "sha256": "9f998746149a9c6101f7b602a09de97e7ee374586d94cbc4faaf4d7d3745b03b"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part026",
+      "bytes": 1048576,
+      "sha256": "aabc842de60f0375056a908ad1322215a77516471e2728afe4e4a63338370823"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part027",
+      "bytes": 1048576,
+      "sha256": "4f5b461e2afae49ac1d5f3296284f7117ef8ab26eb81a3e87ce94cb3405a4067"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part028",
+      "bytes": 1048576,
+      "sha256": "31a65d03c17e85245ee1cd2533f1a068540f0fa95bda514cc321b241b10aecb0"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part029",
+      "bytes": 1048576,
+      "sha256": "e523dbfed31c6a82318c17a1e40081d3df63a3aebf846e31ae051f835c11f380"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part030",
+      "bytes": 1048576,
+      "sha256": "32614903d1916adeced613b220d2f34d0b2b7cf567403938b3772cb49a6033e7"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part031",
+      "bytes": 1048576,
+      "sha256": "d07cc32dcb5bc07e84cecd903d8d42b3ace9e5c9936aef929e88bd7fe5769390"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part032",
+      "bytes": 1048576,
+      "sha256": "d0b9cb6adcf4e0a991be4f6360b7ffe5c4d53e88a20b9fdbf04191b17dc8b6fe"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part033",
+      "bytes": 1048576,
+      "sha256": "71a76f78d7d25e49d4806993acdcb2ab6286ec124833bd011ba32686c843a436"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part034",
+      "bytes": 1048576,
+      "sha256": "5924afb9b7e907a12be8da4c532fe8e4001c4793a953edff3531c51fc8d2aa56"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part035",
+      "bytes": 1048576,
+      "sha256": "a9a1493bde7a36e85c36a72c61b234de5a092d2fad0f73f0eb20d19aeca23080"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part036",
+      "bytes": 1048576,
+      "sha256": "ba9643ed0618f13e567a54a24b5e045fbdb5a8a4a0e0ffa13319a5b7def31535"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part037",
+      "bytes": 1048576,
+      "sha256": "75b8822bd82853560a49916df8d6b10e511d001d3010c5f4fd70ae6cf94b144e"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part038",
+      "bytes": 1048576,
+      "sha256": "fcf5efe4fb56f44277172ca6ad72a3246f4b4280b2389c055652bf7a99fa8071"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part039",
+      "bytes": 1048576,
+      "sha256": "374c52938c63e34864cbaf4c576ac09047c72b612b515508bbcdeaf2a44de53d"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part040",
+      "bytes": 1048576,
+      "sha256": "303036f6b2e2a2c10151351f761cde87ce8da3dc9dea8ae7682184c759287651"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part041",
+      "bytes": 1048576,
+      "sha256": "027a9f9fe5df1b38b2868f76713b50e7daafe0b04c79f9ce596f80ec071d3b56"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part042",
+      "bytes": 1048576,
+      "sha256": "1a428009e0d5121e3a4d77156d91d926752918a5583824ac8654e453239f1d99"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part043",
+      "bytes": 1048576,
+      "sha256": "3ee7e2bb8e6497e62c1e7cbc69a68082af789a345172db638c05184d0cb53192"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part044",
+      "bytes": 1048576,
+      "sha256": "9e3283116a1a7e45e3d55d0dd617d2280949567379e6f269580f9c25fde06ec3"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part045",
+      "bytes": 1048576,
+      "sha256": "596eee8fb741cb1a471567de201126dcc2521f9ed297bb1e77bcff44ec76cb97"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part046",
+      "bytes": 1048576,
+      "sha256": "143a3414a81949291e477f7552e2635a64a5c232d37e9db150703e6c01d4b9f4"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part047",
+      "bytes": 1048576,
+      "sha256": "774c74397fd8f5519f69cd1682c2c818e6010d2ded251ceb17dbd92849aee015"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part048",
+      "bytes": 1048576,
+      "sha256": "a3570f6ec3eafb48955719c9ceeb0c4f5cff01d23473631a2eaef333d7cecd9b"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part049",
+      "bytes": 1048576,
+      "sha256": "4919547c61c22e2fff6da19c193cd8bf44cc167e4f2f298b656cc84ebf16907c"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part050",
+      "bytes": 1048576,
+      "sha256": "d273faf8078e4d15f55c561597da463eedee0dd63e0713d516f11cce358bbdef"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part051",
+      "bytes": 1048576,
+      "sha256": "a521c9babcbb15207fa262377b58dd2acf9c76300757c2cd3568a2a7a90e7995"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part052",
+      "bytes": 1048576,
+      "sha256": "334f03b8e670e44b64b2a30cf47ce7cf7691b73ea220d4211129892e5ea9fd0d"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part053",
+      "bytes": 1048576,
+      "sha256": "bf662c0df96b9bfb72d82c6666a73afda7eca76fc020b6e9d7d72bc220a96ba8"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part054",
+      "bytes": 1048576,
+      "sha256": "bb0eccc34583eecc61ee268e589a6d41a9451abc6b6177bed4582b5656a81257"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part055",
+      "bytes": 1048576,
+      "sha256": "e0812f7f2767c91bcb3631f3dd9ea9d7e05bd9212abd734e973fa8f60781c32b"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part056",
+      "bytes": 1048576,
+      "sha256": "0ead3350dca1caa8562040ade3b0c84655a46c4b6b8318c429ed835ad4e25e64"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part057",
+      "bytes": 1048576,
+      "sha256": "cde2961e0c2266ad44396e81dbb21adabce9f7e9a473c6f0cc3a48c70052c80c"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part058",
+      "bytes": 1048576,
+      "sha256": "dda465e7e99b1854f1f29d1a620524dd690f286e4763fac0cd6cdd61e2ba65ee"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part059",
+      "bytes": 1048576,
+      "sha256": "31b1665e57e55b8897c87be539c413f29425771f2b34bbb7caba9e093850f756"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part060",
+      "bytes": 1048576,
+      "sha256": "478c8352da7e0c644d7c05a05a4db45951f495eac827e3a82003f702fb0aa179"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part061",
+      "bytes": 1048576,
+      "sha256": "6b3189abbbad9227bfc65725bc25a42db2ce2045f39a2280f7503cdde772587c"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part062",
+      "bytes": 1048576,
+      "sha256": "20d78dbf45523f0650800f912ee346361b3e0b0481945346557035458e28b153"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part063",
+      "bytes": 1048576,
+      "sha256": "47dc5f56b3d15356e8fad4b79417f9bdffa65eee34658600bbd4973c33f94d11"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part064",
+      "bytes": 1048576,
+      "sha256": "6ff6a013134278b441a87dd3e73772b483b3f2a4591671013d4b5eba784c1212"
+    },
+    {
+      "path": "archives/collected_sources.tar.gz.part065",
+      "bytes": 506886,
+      "sha256": "e53da2bdd97954fae515477b0b68fdb015698a795cb7f11360944f1afcf67cc2"
+    }
+  ],
+  "archived_files": 949,
+  "excluded_event_files": [
+    {
+      "path": "opendata/samples/30525_CD205112-3009-AB40-ACE1-9C3C31285B4A.root",
+      "bytes": 141460669,
+      "sha256": "6bdd4436421f7a22fcc5372afb3bd405e31bc9c69e4f7046c967c93180753677"
+    },
+    {
+      "path": "opendata/samples/80000_DAOD_PHYSLITE.37001761._000002.pool.root.1",
+      "bytes": 10882466,
+      "sha256": "3445bfb0731ea95532ca35bc5795385b3f916f078aca49fb80fde2338ee662e1"
+    },
+    {
+      "path": "opendata/samples/80001_DAOD_PHYSLITE.37020048._000009.pool.root.1",
+      "bytes": 12021826,
+      "sha256": "12d7efa4cca8851e8717fcfa4adc36953337f1cbcabc454c56533e116fc4cdb6"
+    },
+    {
+      "path": "opendata/samples/80014_DAOD_PHYSLITE.37322576._000009.pool.root.1",
+      "bytes": 87201141,
+      "sha256": "54d0151621a0f3b0b8ec3b656d79a54bdb4e567e9549190edb909e22aab43e08"
+    }
+  ],
+  "reason": "Archive contains all collected sources, metadata and numerical inputs. Four large event samples are restored from their checksum-pinned public CERN URLs by scripts/restore_samples.py."
+}

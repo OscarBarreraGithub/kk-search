@@ -1,0 +1,54 @@
+[
+  {
+    "file": "opendata/samples/30525_CD205112-3009-AB40-ACE1-9C3C31285B4A.root",
+    "record_id": 30525,
+    "bytes": 141460669,
+    "entries": 107505,
+    "tree": "Events",
+    "checksum_expected": "adler32:5eb6a113",
+    "checksum_actual": "adler32:5eb6a113",
+    "checksum_matches": true,
+    "source": "root://eospublic.cern.ch//eos/opendata/cms/Run2016G/JetHT/NANOAOD/UL2016_MiniAODv2_NanoAODv9-v1/130000/CD205112-3009-AB40-ACE1-9C3C31285B4A.root",
+    "https_url": "https://opendata.cern.ch/eos/opendata/cms/Run2016G/JetHT/NANOAOD/UL2016_MiniAODv2_NanoAODv9-v1/130000/CD205112-3009-AB40-ACE1-9C3C31285B4A.root",
+    "verification": "ROOT file opened; tree entries and branches inspected"
+  },
+  {
+    "file": "opendata/samples/80000_DAOD_PHYSLITE.37001761._000002.pool.root.1",
+    "record_id": 80000,
+    "bytes": 10882466,
+    "entries": 1578,
+    "tree": "CollectionTree",
+    "checksum_expected": "adler32:a3ec5dc4",
+    "checksum_actual": "adler32:a3ec5dc4",
+    "checksum_matches": true,
+    "source": "root://eospublic.cern.ch//eos/opendata/atlas/rucio/data15_13TeV/DAOD_PHYSLITE.37001761._000002.pool.root.1",
+    "https_url": "https://opendata.cern.ch/eos/opendata/atlas/rucio/data15_13TeV/DAOD_PHYSLITE.37001761._000002.pool.root.1",
+    "verification": "ROOT file opened; tree entries and branches inspected"
+  },
+  {
+    "file": "opendata/samples/80001_DAOD_PHYSLITE.37020048._000009.pool.root.1",
+    "record_id": 80001,
+    "bytes": 12021826,
+    "entries": 1731,
+    "tree": "CollectionTree",
+    "checksum_expected": "adler32:e51c99b8",
+    "checksum_actual": "adler32:e51c99b8",
+    "checksum_matches": true,
+    "source": "root://eospublic.cern.ch//eos/opendata/atlas/rucio/data16_13TeV/DAOD_PHYSLITE.37020048._000009.pool.root.1",
+    "https_url": "https://opendata.cern.ch/eos/opendata/atlas/rucio/data16_13TeV/DAOD_PHYSLITE.37020048._000009.pool.root.1",
+    "verification": "ROOT file opened; tree entries and branches inspected"
+  },
+  {
+    "file": "opendata/samples/80014_DAOD_PHYSLITE.37322576._000009.pool.root.1",
+    "record_id": 80014,
+    "bytes": 87201141,
+    "entries": 10000,
+    "tree": "CollectionTree",
+    "checksum_expected": "adler32:346325ac",
+    "checksum_actual": "adler32:346325ac",
+    "checksum_matches": true,
+    "source": "root://eospublic.cern.ch//eos/opendata/atlas/rucio/mc20_13TeV/DAOD_PHYSLITE.37322576._000009.pool.root.1",
+    "https_url": "https://opendata.cern.ch/eos/opendata/atlas/rucio/mc20_13TeV/DAOD_PHYSLITE.37322576._000009.pool.root.1",
+    "verification": "ROOT file opened; tree entries and branches inspected"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "snapshot_date": "2026-10-29 UTC (collection directory dated 2026-10-28)",
+  "paper_pdfs": 30,
+  "result_figure_pdfs": 561,
+  "result_page_directories": 17,
+  "opendata_records": 34,
+  "enumerated_event_files": 77540,
+  "sample_files": 4,
+  "sample_bytes": 251566102,
+  "sample_events": 120814,
+  "public_repo_root_files": 57,
+  "exported_repo_histograms": 48,
+  "secondary_spectrum_bins": 44,
+  "hepdata_records_mapped": 15,
+  "pending_public_files": 266
+}

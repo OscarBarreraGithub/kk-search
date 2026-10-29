@@ -1,0 +1,82 @@
+[
+  {
+    "record_id": 30525,
+    "file": "opendata/samples/30525_CD205112-3009-AB40-ACE1-9C3C31285B4A.root",
+    "entry_stop": 10,
+    "read_branches": [
+      "run",
+      "luminosityBlock",
+      "event",
+      "Jet_pt",
+      "Jet_eta",
+      "Jet_phi",
+      "Jet_mass",
+      "HLT_PFHT900"
+    ],
+    "failures": {},
+    "first_event_jet_pt": [
+      314.25,
+      217.25,
+      87.375,
+      28.046875,
+      23.03125,
+      20.40625,
+      15.0625
+    ],
+    "pt_unit": "GeV"
+  },
+  {
+    "record_id": 80000,
+    "file": "opendata/samples/80000_DAOD_PHYSLITE.37001761._000002.pool.root.1",
+    "entry_stop": 10,
+    "read_branches": [
+      "AnalysisJetsAuxDyn.pt",
+      "AnalysisJetsAuxDyn.eta",
+      "AnalysisJetsAuxDyn.phi",
+      "AnalysisJetsAuxDyn.m"
+    ],
+    "failures": {},
+    "first_event_jet_pt": [
+      26326.134765625,
+      22763.27734375,
+      19571.427734375
+    ],
+    "pt_unit": "MeV"
+  },
+  {
+    "record_id": 80001,
+    "file": "opendata/samples/80001_DAOD_PHYSLITE.37020048._000009.pool.root.1",
+    "entry_stop": 10,
+    "read_branches": [
+      "AnalysisJetsAuxDyn.pt",
+      "AnalysisJetsAuxDyn.eta",
+      "AnalysisJetsAuxDyn.phi",
+      "AnalysisJetsAuxDyn.m"
+    ],
+    "failures": {},
+    "first_event_jet_pt": [],
+    "pt_unit": "MeV"
+  },
+  {
+    "record_id": 80014,
+    "file": "opendata/samples/80014_DAOD_PHYSLITE.37322576._000009.pool.root.1",
+    "entry_stop": 10,
+    "read_branches": [
+      "AnalysisJetsAuxDyn.pt",
+      "AnalysisJetsAuxDyn.eta",
+      "AnalysisJetsAuxDyn.phi",
+      "AnalysisJetsAuxDyn.m"
+    ],
+    "failures": {},
+    "first_event_jet_pt": [
+      66534.546875,
+      27178.80859375,
+      24689.6484375,
+      21322.1484375,
+      16713.291015625,
+      18630.4296875,
+      12929.283203125
+    ],
+    "pt_unit": "MeV"
+  }
+]

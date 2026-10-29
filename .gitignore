@@ -1,0 +1,9 @@
+/kk_data_access_2026-10-28/
+/downloads/
+/data/
+/tmp/
+/.venv/
+__pycache__/
+*.pyc
+*.partial
+*.zip
