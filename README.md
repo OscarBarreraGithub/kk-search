@@ -23,7 +23,7 @@ python3 scripts/restore_samples.py --execute
 python3 kk_data_access_2026-10-28/verify_package.py
 ```
 
-The four files total **251.6 MB** and are downloaded from their public CERN URLs with size, Adler-32 and SHA-256 checks. They are not stored in normal Git history. A release workflow is included to assemble the complete collection as a downloadable release attachment; its success must be checked on the repository's Actions/Releases pages.
+The four files total **251.6 MB** and are downloaded from their public CERN URLs with size, Adler-32 and SHA-256 checks. They are not stored in normal Git history. The **[complete 296 MB collection is published as a GitHub release](https://github.com/OscarBarreraGithub/kk-search/releases/tag/data-2026-10-28)**, including all 953 files and the four samples. GitHub's runner successfully restored the sources, downloaded the samples, verified every inventoried checksum and published the ZIP, report and ZIP checksum. You may download that release instead of restoring the samples separately.
 
 ## What is preserved
 
